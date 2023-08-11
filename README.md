@@ -33,3 +33,6 @@ Follow these steps to get the Fancy ToDo Web App up and running on your local ma
 
 1. **Clone the repository:**
 
+2. **Frontend Setup:**
+
+
